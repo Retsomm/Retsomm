@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I will die on Mars.**
   
-- Linkedin：linkedin.com/in/chan-yuting-b80218366
+- Linkedin：https://linkedin.com/in/chan-yuting-b80218366
 
 - My web ： https://aria-web-theta.vercel.app/
 
