@@ -6,6 +6,8 @@
 - 📫 How to reach me **112182ssss@gmail.com**
 
 - ⚡ Fun fact **I will die on Mars.**
+  
+- Linkend：linkedin.com/in/chan-yuting-b80218366
 
 - My web ： https://aria-web-theta.vercel.app/
 
