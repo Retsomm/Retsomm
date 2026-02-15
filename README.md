@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React and Functional programming**
 
-- 📝 I regularly write articles on [[https://aria-web-theta.vercel.app/](https://ariadocusauruswed.netlify.app/)]([https://aria-web-theta.vercel.app](https://ariadocusauruswed.netlify.app/)/)
+- 📝 I regularly write articles on [[https://aria-web-theta.vercel.app/](https://ariadocusauruswed.netlify.app/)]
 
 - 📫 How to reach me **112182ssss@gmail.com**
 
