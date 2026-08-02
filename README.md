@@ -38,6 +38,13 @@
   <a href="https://www.electronjs.org/" target="_blank"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" /></a>
 </p>
 
+### 📱 App
+<p align="left">
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>
+  <a href="https://expo.dev/" target="_blank"><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" /></a>
+  <a href="https://expo.dev/eas" target="_blank"><img src="https://img.shields.io/badge/EAS-000020?style=for-the-badge&logo=expo&logoColor=white" alt="EAS" /></a>
+</p>
+
 ### 🚀 DevOps
 <p align="left">
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
